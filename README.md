@@ -17,3 +17,15 @@ https://task-management-application-1-a5pl.onrender.com/
 
 Database: MongoDB, 
 Deployment: Render
+
+
+task-management-app/
+│
+├── Frontend/          
+├── bakend/         
+├── models/          # Database models
+├── routes/          # API routes
+├── controllers/     # Business logic
+├── .env             # Environment variables
+├── package.json
+└── README.md
